@@ -1,0 +1,38 @@
+{
+    "loading": "App Loading ..",
+    "register": "Sign up",
+    "login": "Sign in",
+    "auth": {
+        "main": {
+            "top": "UBR-Towing",
+            "bottom": "The most trusted name for you and your family safty"
+        }
+    },
+    "form": {
+        "name" : "Full Name",
+        "phone" : "Phone Number",
+        "password": "Password",
+        "confirm_password": "Confirm Password",
+        "first_name": "First Name",
+        "last_name": "Last Name",
+        "address": "Address",
+        "country": "Country",
+        "city": "City",
+        "state": "State",
+        "zipcode": "Zip Code"
+    },
+    "register_steps": {
+        "activation": {
+            "code_send": "Activation code will send to this phone number"
+        }
+    },
+    "main": {
+        "card": {
+            "text": "Type of service"
+        },
+        "stepOne": {
+            "placeholder_text" : "Where to go ?",
+            "location_in_map_text" :"Place location in map"
+        }
+    }
+}
